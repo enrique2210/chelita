@@ -1,0 +1,17 @@
+.env
+
+*.db
+*.sqlite
+*.sqlite3
+
+__pycache__/
+
+node_modules/
+.next/
+out/
+build/
+
+.vscode/
+.idea/
+
+*.log
